@@ -1,1 +1,4 @@
+hz\controller\TimeController.class
 hz\dingdong\DingdongApplication.class
+hz\entity\User.class
+hz\mapper\TimeMapper.class

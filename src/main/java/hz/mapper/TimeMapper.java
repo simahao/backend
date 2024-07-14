@@ -5,6 +5,6 @@ import org.apache.ibatis.annotations.Mapper;
 import java.time.LocalDateTime;
 
 @Mapper
-public interface SqlMapper {
-    LocalDateTime now();
+public interface TimeMapper {
+    public LocalDateTime now();
 }
